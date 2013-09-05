@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab20c775-c027-408f-8947-a8629eded2c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/js-assessment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/arrays.js" afterPath="$PROJECT_DIR$/app/arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bestPractices.js" afterPath="$PROJECT_DIR$/app/bestPractices.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/flowControl.js" afterPath="$PROJECT_DIR$/app/flowControl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/functions.js" afterPath="$PROJECT_DIR$/app/functions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules.js" afterPath="$PROJECT_DIR$/app/modules.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/objects.js" afterPath="$PROJECT_DIR$/app/objects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js-assessment.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378304429340" ignored="false" />
+    <file path="/Dummy.txt" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378377605525" ignored="false" />
     <file path="/bestPractices.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378289409564" ignored="false" />
     <file path="/arrays.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378303001552" ignored="false" />
     <file path="/a.css" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378302164772" ignored="false" />
@@ -25,6 +17,7 @@
     <file path="/modules.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378303455217" ignored="false" />
     <file path="/objects.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378305033738" ignored="false" />
     <file path="/flowControl.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378305453090" ignored="false" />
+    <file path="/functions.js" changelist="ab20c775-c027-408f-8947-a8629eded2c7" time="1378377211953" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,55 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bestPractices.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrays.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/arrays.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="21" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="objects.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/objects.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="81" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flowControl.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/flowControl.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="69" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="functions.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="84" selection-start="336" selection-end="336" vertical-scroll-proportion="0.31612223">
+            <state line="71" column="10" selection-start="1805" selection-end="1805" vertical-scroll-proportion="0.81032664">
               <folding />
             </state>
           </provider>
@@ -118,9 +66,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/bestPractices.js" />
         <option value="$PROJECT_DIR$/app/arrays.js" />
+        <option value="$PROJECT_DIR$/app/flowControl.js" />
         <option value="$PROJECT_DIR$/app/modules.js" />
         <option value="$PROJECT_DIR$/app/objects.js" />
-        <option value="$PROJECT_DIR$/app/flowControl.js" />
+        <option value="$PROJECT_DIR$/app/functions.js" />
       </list>
     </option>
   </component>
@@ -173,7 +122,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,6 +156,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,18 +288,21 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
+    <entry file="file://$PROJECT_DIR$/app/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="20" column="84" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="21" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="96" column="21" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/modules.js">
@@ -362,84 +314,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/objects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="268" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="38" selection-start="268" selection-end="278" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="10" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="14" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="387" selection-end="393" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="21" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="23" selection-start="387" selection-end="393" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/objects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="81" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+        <state line="16" column="31" selection-start="450" selection-end="450" vertical-scroll-proportion="0.2528978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="279" selection-end="279" vertical-scroll-proportion="0.14225501">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="23" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.76290834" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bestPractices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="319" selection-end="319" vertical-scroll-proportion="0.1264489" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/flowControl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="69" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="69" selection-start="884" selection-end="884" vertical-scroll-proportion="0.34773445" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="84" selection-start="336" selection-end="336" vertical-scroll-proportion="0.31612223">
+        <state line="71" column="10" selection-start="1805" selection-end="1805" vertical-scroll-proportion="0.81032664">
           <folding />
         </state>
       </provider>
